@@ -23,6 +23,8 @@ pip install openai  # Optional, for AI advice
 
 python fastapi_auditor.py analyze ./path/to/your/project
 
+Generates api_modernization_report.md + optional JSON report.
+
 Features
 
 Per-route scoring with clear penalties
@@ -34,5 +36,7 @@ JSON output for automation
 Support the Project ❤️
 If this tool helps you or your team, consider sponsoring ongoing development:
 GitHub Sponsors
+
 License
 MIT © @fastapi-auditor
+
