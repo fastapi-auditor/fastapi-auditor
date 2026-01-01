@@ -33,8 +33,10 @@ AI remediation advice (opt-in, limited by default)
 CI-friendly: --fail-under to break builds on low scores
 JSON output for automation
 
-Support the Project ❤️
+## Support the Project ❤️
+
 If this tool helps you or your team, consider sponsoring ongoing development:
+
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/fastapi-auditor?label=Sponsor&logo=githubsponsors&style=social)](https://github.com/sponsors/fastapi-auditor)
 
 License
