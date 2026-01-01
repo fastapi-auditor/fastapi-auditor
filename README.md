@@ -22,3 +22,15 @@ cd fastapi-auditor
 pip install openai  # Optional, for AI advice
 
 python fastapi_auditor.py analyze ./path/to/your/project
+
+Features
+
+Per-route scoring with clear penalties
+Detailed Markdown reports
+AI remediation advice (opt-in, limited by default)
+CI-friendly: --fail-under to break builds on low scores
+JSON output for automation
+
+Support the Project ❤️
+If this tool helps you or your team, consider sponsoring ongoing development:
+https://img.shields.io/github/sponsors/fastapi-auditor?label=Sponsor&logo=githubsponsors&style=social
