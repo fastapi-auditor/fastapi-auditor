@@ -1,0 +1,20 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "fastapi-auditor"
+version = "0.1.0"
+description = "Audit and modernize FastAPI routes – scoring, best practices, AI advice"
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [{ name = "fastapi-auditor" }]
+keywords = ["fastapi", "audit", "openapi", "api", "linter"]
+
+dependencies = [
+    "openai>=1.0.0",
+]
+
+[project.scripts]
+fastapi-auditor = "fastapi_auditor.fastapi_auditor:main"
