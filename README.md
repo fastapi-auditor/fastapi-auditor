@@ -37,7 +37,8 @@ JSON output for automation
 
 If this tool helps you or your team, consider sponsoring ongoing development:
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/fastapi-auditor?label=Sponsor&logo=githubsponsors&style=social)](https://github.com/sponsors/fastapi-auditor)
+[![GitHub Sponsors]
+(https://img.shields.io/github/sponsors/fastapi-auditor?label=Sponsor&logo=githubsponsors&style=social)](https://github.com/sponsors/fastapi-auditor)
 
 License
 MIT © @fastapi-auditor
