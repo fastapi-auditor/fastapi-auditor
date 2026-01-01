@@ -33,4 +33,6 @@ JSON output for automation
 
 Support the Project ❤️
 If this tool helps you or your team, consider sponsoring ongoing development:
-https://img.shields.io/github/sponsors/fastapi-auditor?label=Sponsor&logo=githubsponsors&style=social
+GitHub Sponsors
+License
+MIT © @fastapi-auditor
